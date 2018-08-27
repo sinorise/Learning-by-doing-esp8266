@@ -26,7 +26,11 @@ Learning by doing esp8266 based on FreeRTOS
  21. websocket
  22. ota
  23. http/https
- 24. md5
+ 24. md5/sha256
  25. mqtt
  26. mesh
+ 27. dns
+ 28. sntp
+ 29. filesystem
+ 30. i2s
 
