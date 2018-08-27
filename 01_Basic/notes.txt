@@ -4,18 +4,29 @@ Learning by doing esp8266 based on FreeRTOS
  a general outline
  
  01. empty project
- 02. tcp client
- 03. tcp server
- 04. udp
- 05. smartconfig/airkiss
- 06. ota
- 07. mesh
- 08. webserver
- 09. json
- 10. http/https
- 11. ssl
- 12. md5
- 13. mqtt
- 14. pwm
- 15. ir decoder
- 16. ir encoder
+ 02. uart
+ 03. gpio
+ 04. adc
+ 05. timer
+ 06. pwm
+ 07. i2c
+ 08. hspi master
+ 09. hspi slave
+ 10. ir decoder
+ 11. ir encoder
+ 12. json
+ 13. ssl
+ 14. tcp client
+ 15. tcp server
+ 16. udp client
+ 17. udp server
+ 18. softAP
+ 19. webserver
+ 20. smartconfig/airkiss
+ 21. websocket
+ 22. ota
+ 23. http/https
+ 24. md5
+ 25. mqtt
+ 26. mesh
+
